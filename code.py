@@ -1,4 +1,6 @@
-"""This is a test file.
+"""Example Google style docstrings.
+
+This module demonstrates documentation as
 """
 
 
