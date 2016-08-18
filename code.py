@@ -2,6 +2,7 @@
 
 This module demonstrates documentation as it should be according to PEP.
 And this is really great.
+Another change to check the logs.
 """
 
 
