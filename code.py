@@ -3,6 +3,7 @@
 This module demonstrates documentation as it should be according to PEP.
 And this is really great.
 Another change to check the logs.
+Another change to see if JSON output works better.
 """
 
 
